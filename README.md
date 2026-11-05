@@ -176,4 +176,3 @@ portfolio_bandung_culinary/
 **Penyusun:**  
 Rifasa Hadiarto  
 S1 Teknik Informatika - Universitas Komputer Indonesia (UNIKOM)  
-Certified Data Analyst - Badan Nasional Sertifikasi Profesi (BNSP RI)
