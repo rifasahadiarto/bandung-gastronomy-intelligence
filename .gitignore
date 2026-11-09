@@ -12,3 +12,6 @@ Desktop.ini
 # Virtual environment
 venv/
 env/
+
+# Large binary datasets
+*.xlsx
